@@ -6,7 +6,7 @@
 ## 🐛 About me •ᴗ•
 #### My name is Teanna Cole and I'm a aspiring software developer from New York. I'm currently an undergraduate full-time student at Lehman College aiming to getting a internship or part-time position in Software Development!
 
-#### Fun Facts!
+#### Fun Facts
 
 - I love exploring **fashion in gaming**, especially iconic styles from female horror game protagonists.
 - I’m a proud New Yorker with roots in Jamaica and Cuba, passionate about uplifting underrepresented communities in tech.
