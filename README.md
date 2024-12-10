@@ -4,7 +4,7 @@
 </h1>
   
 ## 🐛 About me •ᴗ•
-#### My name is Teanna Cole and I'm a aspiring software developer from New York. I'm currently an undergraduate full-time student at Lehman College aiming to getting a internship or part-time position in Software Development!
+#### My name is Teanna Cole and I'm a aspiring software developer from New York. Currently pursuing a degree in Computer Science at Lehman College, I’ve built skills in software development, web design, and collaborative programming. I enjoy creating tools that enhance productivity and inclusivity so let’s connect and make something awesome together! I'm aiming to getting a internship or part-time position in Software Development.
 
 #### Fun Facts
 
