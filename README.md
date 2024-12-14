@@ -8,7 +8,7 @@ My name is Teanna Cole and I'm a aspiring software developer from New York. Curr
 
 #### Fun Facts
 
-- I love exploring **fashion in gaming**, especially iconic styles from female horror game protagonists.
+- I adore **fashion in gaming**, especially iconic styles from female horror game protagonists.
 - I’m a proud New Yorker with roots in Jamaica and Cuba, passionate about uplifting underrepresented communities in tech.
   
 --- 
