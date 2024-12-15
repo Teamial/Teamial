@@ -57,8 +57,8 @@ My name is Teanna Cole and I'm a aspiring software developer from New York. Curr
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teamial&show_icons=true&locale=en&layout=compact" alt="teamial" /></p>
 
 ## Contact me
-<a href="https://linkedin.com/in/teanna cole" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="teanna cole"/></a>
-<a href="teannacole.business@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="teanna cole"/></a>
+<a href="https://www.linkedin.com/in/teanna-cole/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="teanna cole"/></a>
+<a href="mailto:teannacole.business@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="teanna cole's email"/></a>
 <br>
 <h4 align="center"> "Technology is one of my biggest passions, and I want the next generation to find it just as exciting and motivating as I do." </h4>
 <h4 align="center"> ᥫ᭡。</h4>
