@@ -17,7 +17,7 @@ My name is Teanna Cole and I'm a aspiring software developer from New York. Curr
 
 ### જ⁀➴ Projects
 
-- **[SoaringBun](https://github.com/Teamial/SoaringBun_Todo-App) - Todo List Web App**
+- **[SoaringBun](todo-list) - Todo List Web App**
 
 - **[DevTrack](https://github.com/Teamial/DevTrack) - Productivity VS Code Extension**
 
